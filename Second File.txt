@@ -5,3 +5,13 @@ becoming bigger
 trying again to put the third line
 
 adding the fourth line
+
+adding count
+1
+2
+3
+4
+5
+6
+7
+
